@@ -12,9 +12,14 @@
 - 右上の数字を隠せます。
 - 1個のブキを2回以上カウントする必要がない、という場合には、「カウント済みのブキをタップしたときの動作」を「カウントを減らす」にして「カウントを隠す」のがおすすめです。
 
+## 閲覧
+
+以下のURLから閲覧できます。  
+[https://gungeespla.github.io/collection_of_weapons/](https://gungeespla.github.io/collection_of_weapons/)
+
 ## ライセンス
 
-[MIT](https://github.com/GungeeSpla/ikura_bingo/blob/master/LICENSE)
+[MIT](https://github.com/GungeeSpla/collection_of_weapons/blob/master/LICENSE)
 
 ## 作者
 
