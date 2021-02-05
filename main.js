@@ -21,7 +21,7 @@
 		return (typeof div.ontouchstart === 'function');
 	})();
 	
-	const EVENT_CLICK = (hasTapEvent) ? 'click' : 'click';
+	const EVENT_CLICK = (hasTapEvent) ? 'touchstart' : 'click';
 
 	/** 言語 */
 	const lang = (navigatorLang.indexOf('ja') > -1) ? 'ja' : 'en';
