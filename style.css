@@ -297,6 +297,11 @@ body.theme-dark #satistics-button {
 body.theme-dark .ungained .weapon-image {
 	opacity: 0.4;
 }
+body.theme-dark #statistics-wrapper {
+	background: rgba(0, 0, 0, 0.9);
+	color: #eee;
+}
+
 /** ～600px */
 @media screen and (max-width: 640px) {
 	html {
