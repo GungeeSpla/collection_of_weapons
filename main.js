@@ -554,12 +554,14 @@
 			imageElm.setAttribute('weapon-id', id);
 			imageElm.setAttribute('id', `weapon-image-${id}`);
 			imageElm.addEventListener(EVENT_CLICK, count);
+			/*
 			imageElm.addEventListener('touchstart', (e) => {
 				console.log(e.timeStamp);
 			});
 			imageElm.addEventListener('mousedown', (e) => {
 				console.log(e.timeStamp);
 			});
+			*/
 			weaponElm.appendChild(imageElm);
 			weaponElm.appendChild(countElm);
 			wrapperElm.appendChild(weaponElm);
